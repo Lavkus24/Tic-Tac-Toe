@@ -8,3 +8,6 @@ The tic-tac-toe project is a web-based game developed using HTML, CSS, and JavaS
 2. **Double Player Mode** - Any two players can compete in this mode.
 
 The tic-tac-toe project showcases the combined power of HTML, CSS, and JavaScript to create an interactive and engaging gaming experience. It serves as a demonstration of front-end web development.
+![Screenshot (64)](https://github.com/Lavkus24/Tic-Tac-Toe/assets/106608679/842d2c69-1870-4ef6-9931-235dcc6b9278)
+![Screenshot (65)](https://github.com/Lavkus24/Tic-Tac-Toe/assets/106608679/d9456ac8-a70f-4100-b032-9a282afa2565)
+
