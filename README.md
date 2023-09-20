@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-1.0
 
-The tic-tac-toe project is a web-based game developed using HTML, CSS, and JavaScript. It is deployed on GitHub Pages, allowing users to access and play the game online. The project offers two distinct modes: a two-player game mode and a single-player mode, where the player competes against an unbeatable bot.
+The tic-tac-toe project is a web-based game developed using HTML, CSS, and JavaScript. It allowing users to access and play the game online. The project offers two distinct modes: a two-player game mode and a single-player mode, where the player competes against an unbeatable bot.
 
 # Two Modes
 
